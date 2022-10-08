@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/demoyoutube/static/css/main.44955d33.css",
+    "main.js": "/demoyoutube/static/js/main.c3ac1f10.js",
+    "static/media/zoom.png": "/demoyoutube/static/media/zoom.b11097e75538f8d78af8.png",
+    "index.html": "/demoyoutube/index.html",
+    "main.44955d33.css.map": "/demoyoutube/static/css/main.44955d33.css.map",
+    "main.c3ac1f10.js.map": "/demoyoutube/static/js/main.c3ac1f10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44955d33.css",
+    "static/js/main.c3ac1f10.js"
+  ]
+}
